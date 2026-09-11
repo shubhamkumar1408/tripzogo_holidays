@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/'
+    base: '/tripzogo.com/'
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
