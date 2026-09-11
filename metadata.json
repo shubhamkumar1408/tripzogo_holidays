@@ -1,0 +1,6 @@
+{
+  "name": "TRIPZOGO - Tour Packages & Holidays",
+  "description": "TRIPZOGO - Handcrafted Domestic and Himalayan Tour Packages for Spiti Valley, Leh Ladakh, Char Dham Yatra, Kedarnath, and Himachal Pradesh. Office: Noida Sector 15.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
